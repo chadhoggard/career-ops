@@ -1,0 +1,1 @@
+Career Ops is a project I'm building that solves the problem of having job tracking all over the place. It will allow everything you've applied to to be automatically updated and tracked from your email.
