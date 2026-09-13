@@ -1,1 +1,1 @@
-SELECT status, COUNT(*) FROM applications GROUP BY status;
+SELECT inet_server_port();
